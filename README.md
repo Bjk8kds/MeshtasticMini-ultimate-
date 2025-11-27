@@ -24,7 +24,7 @@ You can download the Gerber files  ready to be uploaded to your favorite PCB man
 https://1drv.ms/u/c/2c67368a838f1199/ES76oxyXXcVPldiN1mkTW3ABBJq0v5y9MdcGbExrK1AFVw?e=Fvt71G
 
 Bom: 
-https://1drv.ms/x/c/2c67368a838f1199/ERRohtNqsOVGtdlhah4MIEYBnvS8YxArjsxe5eVH7wh5Kg?e=vNc1wa
+[https://1drv.ms/x/c/2c67368a838f1199/ERRohtNqsOVGtdlhah4MIEYBnvS8YxArjsxe5eVH7wh5Kg?e=vNc1wa](https://1drv.ms/x/c/2c67368a838f1199/ET8Aq4KHNdJKmKTWteWQwgABc_6ukWMk-eV6PkVx-6z_GQ?e=gUImLv)
 
 Project files: 
 https://1drv.ms/u/c/2c67368a838f1199/ES76oxyXXcVPldiN1mkTW3ABOX7UIM-nW5yVxFxm3avSVA?e=bwoCOB
