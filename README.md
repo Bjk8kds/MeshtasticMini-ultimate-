@@ -29,7 +29,7 @@ Bom:
 Project files: 
 https://1drv.ms/u/c/2c67368a838f1199/EbxlATQF34ZAvzDpt8qt9sYB8zC7f3cMg0Ks0V4nG6iBOg?e=y9CM3y
 
-First Prototype build using the MiniX-Faketec board, "Mighty Tiny" is a fully featured (All the stuff you see connected to the test build earlier) upgraded variant of the bumblebee, everything working perfectly, cant wait to publish the design once I tweaked a few more things to make it more "build friendly"  ;) 
+First Prototype build using the MiniX-Faketec board, "MiniX-Mighty" is a fully featured (All the stuff you see connected to the test build earlier) upgraded variant of the bumblebee, everything working perfectly, cant wait to publish the design once I tweaked a few more things to make it more "build friendly"  ;) 
 ![IMG_20251130_005623](https://github.com/user-attachments/assets/d4c78b80-3a2c-4d60-8509-0c8e8ff57190)
 ![IMG_20251130_005640](https://github.com/user-attachments/assets/3dd95c00-38c3-4500-8b2b-5786d5fbd734)
 ![IMG_20251130_005706](https://github.com/user-attachments/assets/ea3a8b14-64f6-442d-aef9-2cad580d3308)
