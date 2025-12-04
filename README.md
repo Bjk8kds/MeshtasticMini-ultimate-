@@ -13,12 +13,12 @@ The already implemented buzzer and GPS mosfet worked perfectly fine.
 
 
 ![IMG_20251125_131956](https://github.com/user-attachments/assets/960e555a-37d2-44cb-a822-529986cbe057)
-![IMG_20251125_214123](https://github.com/user-attachments/assets/ced84b46-46fe-49d9-a90d-b38e18403531)
+
 The corrected and updated version is on the way to me and once I can confirm it working accordingly I will relase the files for it here. 
 
 The boards arrived yesterday and I can confirm everything working as expected! 
 below you can see some more shots of the PCB and first fully featured test build utilizing every single option there is available: 
-
+![IMG_20251125_214123](https://github.com/user-attachments/assets/ced84b46-46fe-49d9-a90d-b38e18403531)
 
 
 You can also check the Video giving a short overview and functionallity: https://youtu.be/Xvp6R3YEcoE
