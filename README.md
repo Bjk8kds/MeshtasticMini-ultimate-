@@ -13,6 +13,8 @@ The corrected and updated version is on the way to me and once I can confirm it 
 The boards arrived yesterday and I can confirm everything working as expected! 
 below you can see some more shots of the PCB and first fully featured test build utilizing every single option there is available: 
 
+![IMG_20251204_091038](https://github.com/user-attachments/assets/66463b4e-4ea1-484b-ac10-a5eb5364bfc1)
+![IMG_20251204_091024](https://github.com/user-attachments/assets/b5c4b1e1-90f3-441e-9e42-5f4dcd25e5e4)
 
 
 ![IMG_20251125_131956](https://github.com/user-attachments/assets/960e555a-37d2-44cb-a822-529986cbe057)
