@@ -6,7 +6,7 @@ After I received the parts I started building it right away and it worked flawle
 Driving the board to its max potential there is now a 3rd mosfet for an additional rumble motor, as well 3 exposed more gpios for a navigation switch and also a notification LED, the board now pretty much offering evereyhting meshtastic has to offer. 
 The already implemented buzzer and GPS mosfet worked perfectly fine.  
 
-Meshtastic APP PINOUT configuration: 
+##Meshtastic APP PINOUT configuration: 
 
 External Notifications:
 BUZZER: 8 activate "use PWM buzzer" /
