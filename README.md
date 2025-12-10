@@ -9,8 +9,8 @@ The already implemented buzzer and GPS mosfet worked perfectly fine.
 Meshtastic APP PINOUT configuration: 
 
 External Notifications:
-BUZZER: 8 /
-LED: 6 / 
+BUZZER: 8  activate "use PWM buzzer" /
+LED: 6 /  activate "Output LED active high" /
 Vibra motor: 38
 
 Canned Messages(Navigation switch): 
