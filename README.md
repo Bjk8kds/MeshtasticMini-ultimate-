@@ -7,6 +7,7 @@ Driving the board to its max potential there is now a 3rd mosfet for an addition
 The already implemented buzzer and GPS mosfet worked perfectly fine.  
 
 Meshtastic APP PINOUT configuration: 
+
 External Notifications:
 BUZZER: 8
 LED: 6
