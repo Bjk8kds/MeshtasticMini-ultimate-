@@ -39,7 +39,7 @@ below you can see some more shots of the PCB and first fully featured test build
 You can also check the Video giving a short overview and functionallity: https://youtu.be/Xvp6R3YEcoE
 
 You can download the Gerber files  ready to be uploaded to your favorite PCB manufacturer here: 
-https://1drv.ms/u/c/2c67368a838f1199/IQDeiYMwMZozS45DwU7tD5oeAYQlnox22Y98V-xYYe30MQw?e=Zx0TZE
+https://1drv.ms/u/c/2c67368a838f1199/IQB89iT2BxlJTZBfzbcJJwn1Afu9cAv_TWSMusc-lJVZHvE?e=xMteyf
 
 Bom: 
 [https://1drv.ms/x/c/2c67368a838f1199/ERRohtNqsOVGtdlhah4MIEYBnvS8YxArjsxe5eVH7wh5Kg?e=vNc1wa](https://1drv.ms/x/c/2c67368a838f1199/ET8Aq4KHNdJKmKTWteWQwgABc_6ukWMk-eV6PkVx-6z_GQ?e=gUImLv)
