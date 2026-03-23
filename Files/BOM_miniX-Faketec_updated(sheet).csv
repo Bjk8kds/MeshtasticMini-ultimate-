@@ -1,0 +1,17 @@
+ID;Name;Designator;Footprint;Quantity;Manufacturer Part;Manufacturer;Supplier;Order Link
+1;Ra-062;L1;WIRELM-SMD_RA-062;1;Ra-062;Heltec;Ali Express;Hot-HT-RA62 Lora Series Module SX1262 Secondary Development Supports Lorawan Protocol 868-915Mhz - AliExpress 13
+2;nrf52840_promicro;U3;nrf_promicro;1;;;;TENSTAR 2pcs NRF52840 Development Board Compatible With Nice!Nano V2.0 Bluetooth Split keyboard Pro Micro Red Board - AliExpress 502
+3;100uF;C1;C1206;1;HGC1206R5107M100NSPJ;Chinocera(??);LCSC;C7432784
+4;SSD1306;U7;SSD1306;1;;;;https://de.aliexpress.com/item/1005009110390073.html
+5;1M?;R2,R3;R1206;2;1206W4F1004T5E;UNI-ROYAL(??);LCSC;C17927
+6;3-way nav switch;;TMHU26;1;;;Ali Express;https://de.aliexpress.com/item/33044807162.html
+7;10k?;R1,R6,R5;R0603 or  0805 Mosfet pulldown;3;0603WAF1002T5E;UNI-ROYAL(??);LCSC;C25804
+8;SI2312;Q1,Q2,Q3;;3;;;Ali Express;200PCS SI2300 SI2301 SI2302 SI2307 SI2312 SS8050 SS8550 MMBD1503A SOT-23 Transistor SMD Triode - AliExpress 502
+9;470?;R7;R0603 or 0805 LED series resistor;1;;;;
+10;4kHz;BUZZER1;BUZ-SMD_L5.0-W5.5-P4.60;1;;;Ali Express;10Pcs 5020 SMD 5*5*2MM SMD SMD Ultra-thin and ultra-small electromagnetic passive SMD buzzer - AliExpress 502
+11;mixed color kit;LED;1206;1;;;Ali Express;https://de.aliexpress.com/item/1005006417226949.html
+12;Antenna;Ipex;;1;;;Ali Express;https://de.aliexpress.com/item/1005008001334111.html
+13;TS-1088-AR02016;SW5,SW6;SW-SMD_L3.9-W3.0-P4.45;2;TS-1088-AR02016;;Ali Express;https://de.aliexpress.com/item/1005008710001313.html
+14;ATGM336H;External/ optional;;1;;;Ali Express;https://de.aliexpress.com/item/1005009863966843.html
+15;BME 280 3.3 Volt;External/ optional;;1;;;Ali Express;https://de.aliexpress.com/item/1005007968133202.html
+15;Vibration motor;External/ optional;;1;;;Ali Express;10PCS DC3-5V Micro DC Vibration Motor 0820/0827/0830/0834/1027/1030/1034 For For Phone Coin Flat motor - AliExpress 502
